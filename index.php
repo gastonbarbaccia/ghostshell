@@ -182,7 +182,7 @@
                     <div class="nav-identity nav--hide-mobile nav--display-flex-tablet-up">
                         
                         <a data-bi-id="azure" data-bi-ct="l1-home" href="https://azure.microsoft.com/es-es/"
-                            class="nav__link--home" >>_Gh0s7sh3ll</a>
+                            class="nav__link--home" >>_Gh0stSh3ll</a>
                     </div>
                     <ul class="nav-l1__list">
                         <li class="nav-l1__list-item">
