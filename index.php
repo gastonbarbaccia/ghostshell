@@ -160,7 +160,7 @@
                             </svg></span>
                     </button>
                     <a data-bi-id="azure" data-bi-ct="l1-home" href="https://azure.microsoft.com/es-es/"
-                        class="nav__link--home">Azure</a>
+                        class="nav__link--home">>_Gh0st_Sh3ll</a>
                 </div>
 
                 <a data-bi-id="microsoft" data-bi-ct="l1-home" href="https://microsoft.com/" aria-label="Microsoft"
@@ -174,7 +174,6 @@
                         </svg></span>
                 </a>
 
-                
             </div>
 
             <div id="nav-container" class="nav-container nav--display-flex-tablet-up">
@@ -182,7 +181,7 @@
                     <div class="nav-identity nav--hide-mobile nav--display-flex-tablet-up">
                         
                         <a data-bi-id="azure" data-bi-ct="l1-home" href="https://azure.microsoft.com/es-es/"
-                            class="nav__link--home" >>_Gh0stSh3ll</a>
+                            class="nav__link--home" >>_Gh0st_Sh3ll</a>
                     </div>
                     <ul class="nav-l1__list">
                         <li class="nav-l1__list-item">
