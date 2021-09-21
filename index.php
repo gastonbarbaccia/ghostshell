@@ -11582,7 +11582,7 @@ c0.425,0.411,0.82,0.855,1.196,1.319L48.874,11.945z" />
                         </div>
                         <div class="row column row-size3">
                             <img class="shadow-size2 device-wrapper"
-                                src="../../../images/page/services/azure-defender/security-1e13e.png?v=c2f9efa2c04a26e449a85927f1233294e19f6390772809594275a90edd86d1d9"
+                                src="images/page/services/azure-defender/security-1e13e.png?v=c2f9efa2c04a26e449a85927f1233294e19f6390772809594275a90edd86d1d9"
                                 alt="" role="presentation" />
                         </div>
                     </li>
@@ -11594,7 +11594,7 @@ c0.425,0.411,0.82,0.855,1.196,1.319L48.874,11.945z" />
                         </div>
                         <div class="row column row-size3">
                             <img class="shadow-size2 device-wrapper"
-                                src="../../../images/page/services/azure-defender/security-2e13e.png?v=c2f9efa2c04a26e449a85927f1233294e19f6390772809594275a90edd86d1d9"
+                                src="images/page/services/azure-defender/security-2e13e.png?v=c2f9efa2c04a26e449a85927f1233294e19f6390772809594275a90edd86d1d9"
                                 alt="" role="presentation" />
                         </div>
                     </li>
